@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+### Attributes
+
+- I can **not** speak English
+- ~~Sadly, I can ***not*** speak Asturian either~~
+-However, I _can_ speak Spanish!
