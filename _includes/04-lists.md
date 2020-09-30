@@ -1,1 +1,8 @@
-Replace this with a list of your favorite things.
+Some things I like:
+
+- Nothing
+- Videogames. In this order:
+  1. Fable
+  2. Etc
+  
+Bye
